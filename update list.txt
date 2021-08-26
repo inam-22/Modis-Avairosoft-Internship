@@ -1,0 +1,25 @@
+Modis v1.3.4
+New added homepage dark
+Fixes for Sticky header
+Improvements for jQuery files
+
+Modis v1.3.3
+New added homepage spa
+
+Modis v1.3.2
+Design improvements
+
+Modis v1.3.1
+Design improvements
+
+Modis v1.3
+New homepage added
+Style improvements
+
+Modis v1.2
+New homepage design added
+New preloader style
+Style improvements
+
+Modis v1.1
+New design & layouts
